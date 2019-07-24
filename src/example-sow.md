@@ -1,6 +1,6 @@
-# Statement of work / project proposal 
+# Statement of work - Go Free Range and Wile E Coyote
 
-## Supplier 
+## Supplier
 Go Free Range Ltd (GFR)
 
 ## Client
@@ -10,21 +10,46 @@ Wile E Coyote
 ACME supplies project
 
 ## Rate
-£XXXX per day/week/month, up to XX hours per sprint/week/month
+We charge on a time and materials basis at £XXX+VAT per developer day. We work in two-week sprints with a maximum of 8 developer days per developer per sprint.
+
+The GFR team for each sprint will be decided on a sprint-by-sprint basis in discussion with the project owner and with regard to the sprint's deliverables.
+
+Initially, the team will consist of two GFR members with the possibility of adding more as the project continues, or to deliver specific pre-agreed project requirements.
 
 ## Payment arrangements
-GFR will invoice at the end of every sprint/week/month, payment to be received within 14 days. 
+GFR will invoice on the first working day of the month, payment to be received within 28 days.
 
 ## Dates of work
-Feb 1st 2034 - Aug 2nd 2034
+6 two week sprints between September 2019 and March 2020
+  Sprint  1 - Tues  3 Sept
+  Sprint  2 - Tues 17 Sept
+  Sprint  3 - Tues  1 Oct
+  Sprint  4 - Tues 15 Oct
+  Sprint  5 - Tues 29 Oct
+  Sprint  6 - Tues 12 Nov
 
-## The work
+## The Work
 
-ACME supplies project is Wile E Coyote's ongoing work to catch the roadrunner. [XXX description of the project here ]
+ACME supplies project is Wile E Coyote's ongoing work to catch the road-runner.
 
-GFR will be responsible for:
+Wile E Coyote will:
+* paint tunnels on the side of rocks
+* provide a project owner and project manager to work alongside GFR
+* provide design and UX support and feedback for the project
+* arrange user-testing and feedback sessions as may be required for the project
+* provide infrastructure and hosting for the service as it develops
 
-* providing technical architecture expertise
-* developing, testing and deploying code
-* supporting the service while under development and assisting with any issues that arise
-* joining planning workshops to help define the product roadmap
+GFR will:
+* supply rockets, springs, cannon and other devices
+* build and release new software frequently, at least every sprint, and present project progress sprintly to wider stakeholders
+* provide quality assurance for the code in the form of an automated test suite
+* provide technical architecture expertise as required for the future development of the project
+* support the service while under development and assisting with any issues that arise
+* manage and support the infrastructure required to run the project during the development
+* provide technical and project delivery expertise in prioritisation and sprint planning
+* ensure an exemplary handover at the end of the project
+
+Together we will:
+* collaborate to deliver a working, usable iteration of the project at the end of every sprint
+
+MEEP MEEP!

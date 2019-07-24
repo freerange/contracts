@@ -165,8 +165,9 @@
     1.  Go Free Range will issue invoices for the Work on completion, or at intervals
         as described in the proposal.
     2.  Invoices are payable within 14 days.
-    3.  Go Free Range may charge interest on overdue invoices at 5% over the
-        HSBC base rate.
+    3.  Go Free Range will exercise the statutory right to claim interest and
+        recovery costs on overdue invoices under the Late Payment legislation at
+        8% over Bank of England base rate.
     4.  You shall make payment by BACS transfer or (if agreed in advance with Go Free Range)
         credit or debit card. Go Free Range does not accept cheques.
     5.  VAT (where applicable) is payable on, and in addition to, all sums

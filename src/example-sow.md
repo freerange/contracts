@@ -1,15 +1,19 @@
 # Statement of work - Go Free Range and Wile E Coyote
 
 ## Supplier
+
 Go Free Range Ltd (GFR)
 
 ## Client
+
 Wile E Coyote
 
 ## Project
+
 ACME supplies project
 
 ## Rate
+
 We charge on a time and materials basis at £XXX+VAT per developer day. We work in two-week iterations with a maximum of 8 developer days per developer per iteration.
 
 The GFR team for each iteration will be decided on an iteration-by-iteration basis in discussion with the project owner and with regard to the iteration's deliverables.
@@ -17,9 +21,11 @@ The GFR team for each iteration will be decided on an iteration-by-iteration bas
 Initially, the team will consist of two GFR members with the possibility of adding more as the project continues, or to deliver specific pre-agreed project requirements.
 
 ## Payment arrangements
+
 GFR will invoice on the first working day of the month, payment to be received within 28 days.
 
 ## Dates of work
+
 6 two week iterations between September 2019 and March 2020
 
 * Iteration  1 - Tues  3 Sept
@@ -34,6 +40,7 @@ GFR will invoice on the first working day of the month, payment to be received w
 ACME supplies project is Wile E Coyote's ongoing work to catch the road-runner.
 
 Wile E Coyote will:
+
 * paint tunnels on the side of rocks
 * provide a project owner and project manager to work alongside GFR
 * provide design and UX support and feedback for the project
@@ -41,6 +48,7 @@ Wile E Coyote will:
 * provide infrastructure and hosting for the service as it develops
 
 GFR will:
+
 * supply rockets, springs, cannon and other devices
 * build and release new software frequently, at least every iteration, and present project progress iterationly to wider stakeholders
 * provide quality assurance for the code in the form of an automated test suite
@@ -51,6 +59,7 @@ GFR will:
 * ensure an exemplary handover at the end of the project
 
 Together we will:
+
 * collaborate to deliver a working, usable iteration of the project at the end of every iteration
 
 MEEP MEEP!

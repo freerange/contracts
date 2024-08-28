@@ -21,12 +21,13 @@ GFR will invoice on the first working day of the month, payment to be received w
 
 ## Dates of work
 6 two week iterations between September 2019 and March 2020
-  Iteration  1 - Tues  3 Sept
-  Iteration  2 - Tues 17 Sept
-  Iteration  3 - Tues  1 Oct
-  Iteration  4 - Tues 15 Oct
-  Iteration  5 - Tues 29 Oct
-  Iteration  6 - Tues 12 Nov
+
+* Iteration  1 - Tues  3 Sept
+* Iteration  2 - Tues 17 Sept
+* Iteration  3 - Tues  1 Oct
+* Iteration  4 - Tues 15 Oct
+* Iteration  5 - Tues 29 Oct
+* Iteration  6 - Tues 12 Nov
 
 ## The Work
 

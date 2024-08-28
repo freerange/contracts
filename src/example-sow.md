@@ -10,9 +10,9 @@ Wile E Coyote
 ACME supplies project
 
 ## Rate
-We charge on a time and materials basis at £XXX+VAT per developer day. We work in two-week sprints with a maximum of 8 developer days per developer per sprint.
+We charge on a time and materials basis at £XXX+VAT per developer day. We work in two-week iterations with a maximum of 8 developer days per developer per iteration.
 
-The GFR team for each sprint will be decided on a sprint-by-sprint basis in discussion with the project owner and with regard to the sprint's deliverables.
+The GFR team for each iteration will be decided on an iteration-by-iteration basis in discussion with the project owner and with regard to the iteration's deliverables.
 
 Initially, the team will consist of two GFR members with the possibility of adding more as the project continues, or to deliver specific pre-agreed project requirements.
 
@@ -20,13 +20,13 @@ Initially, the team will consist of two GFR members with the possibility of addi
 GFR will invoice on the first working day of the month, payment to be received within 28 days.
 
 ## Dates of work
-6 two week sprints between September 2019 and March 2020
-  Sprint  1 - Tues  3 Sept
-  Sprint  2 - Tues 17 Sept
-  Sprint  3 - Tues  1 Oct
-  Sprint  4 - Tues 15 Oct
-  Sprint  5 - Tues 29 Oct
-  Sprint  6 - Tues 12 Nov
+6 two week iterations between September 2019 and March 2020
+  Iteration  1 - Tues  3 Sept
+  Iteration  2 - Tues 17 Sept
+  Iteration  3 - Tues  1 Oct
+  Iteration  4 - Tues 15 Oct
+  Iteration  5 - Tues 29 Oct
+  Iteration  6 - Tues 12 Nov
 
 ## The Work
 
@@ -41,16 +41,16 @@ Wile E Coyote will:
 
 GFR will:
 * supply rockets, springs, cannon and other devices
-* build and release new software frequently, at least every sprint, and present project progress sprintly to wider stakeholders
+* build and release new software frequently, at least every iteration, and present project progress iterationly to wider stakeholders
 * provide quality assurance for the code in the form of an automated test suite
 * provide technical architecture expertise as required for the future development of the project
 * support the service while under development and assisting with any issues that arise
 * manage and support the infrastructure required to run the project during the development
-* provide technical and project delivery expertise in prioritisation and sprint planning
+* provide technical and project delivery expertise in prioritisation and iteration planning
 * ensure an exemplary handover at the end of the project
 
 Together we will:
-* collaborate to deliver a working, usable iteration of the project at the end of every sprint
+* collaborate to deliver a working, usable iteration of the project at the end of every iteration
 
 MEEP MEEP!
 
